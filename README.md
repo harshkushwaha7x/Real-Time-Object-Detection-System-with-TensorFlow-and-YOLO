@@ -87,4 +87,4 @@ OpenCV dnn module supports running inference on pre-trained deep learning models
 <img src="https://user-images.githubusercontent.com/45601530/79018201-aad5d600-7b8c-11ea-9844-b93a98fd0e00.jpg">
 
 #### A Real-Time Webcam Detection
-<img src="https://github.com/harshkushwaha7x/-Real-Time-Object-Detection-System-with-TensorFlow-and-YOLO/blob/master/doc/webcam_detector.jpg">
+<img src="https://github.com/harshkushwaha7x/Real-Time-Object-Detection-System-with-TensorFlow-and-YOLO/blob/main/doc/webcam_detector.jpg">
