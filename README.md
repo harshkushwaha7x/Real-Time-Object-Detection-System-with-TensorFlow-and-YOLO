@@ -12,27 +12,27 @@ Real time detection can be use via command prompt or GUI.
 		<th><strong>A USA Real-Time Road Detection</strong></th>
 	</tr>
 	<tr align="center">
-		<td><img src="https://github.com/harshkushwaha7x/-Real-Time-Object-Detection-System-with-TensorFlow-and-YOLO/blob/master/doc/detector1.gif"></td>		
+		<td><img src="https://github.com/harshkushwaha7x/Real-Time-Object-Detection-System-with-TensorFlow-and-YOLO/blob/master/doc/detector1.gif"></td>		
 	</tr>
 	<tr align="center">
 		<th><strong>A UK Real-Time Road Detection</strong></th>
 	</tr>
 	<tr align="center">
-		<td><img src="https://github.com/harshkushwaha7x/-Real-Time-Object-Detection-System-with-TensorFlow-and-YOLO/blob/master/doc/detector2.gif"></td>
+		<td><img src="https://github.com/harshkushwaha7x/Real-Time-Object-Detection-System-with-TensorFlow-and-YOLO/blob/master/doc/detector2.gif"></td>
 	</tr>
 	<tr align="center">
 		<th><strong>A Real-Time Webcam Detection</strong></th>
 	</tr>
 	<tr align="center">
-		<td style="width: 100%;"><img src="https://github.com/harshkushwaha7x-Real-Time-Object-Detection-System-with-TensorFlow-and-YOLO/blob/master/doc/webcam_detector.jpg"></td>
+		<td style="width: 100%;"><img src="https://github.com/harshkushwaha7x/Real-Time-Object-Detection-System-with-TensorFlow-and-YOLO/blob/master/doc/webcam_detector.jpg"></td>
 	</tr>
 </tbody>
 </table>
 
-Yolo is a deep learning algorythm which came out on may 2016 and it became quickly so popular because it’s so fast compared with the previous deep learning algorythm.
-With yolo we can detect real time objects at a relatively high speed. With a GPU we would be able to process over 45 frames/second while with a CPU around a frame per second.
+YOLO is a deep learning algorithm that was introduced in May 2016 and became quickly popular because it’s significantly faster compared to previous deep learning algorithms.
+With yolo, we can detect real-time objects at a relatively high speed. With a GPU, we can process over 45 frames per second, while with a CPU, we can process around one frame per second.
 
-OpenCV dnn module supports running inference on pre-trained deep learning models from popular frameworks like Caffe, Torch and TensorFlow.
+OpenCV dnn module supports running inference on pre-trained deep learning models from popular frameworks like Caffe, Torch, and TensorFlow.
 
 ## Requirement
 <ul>
