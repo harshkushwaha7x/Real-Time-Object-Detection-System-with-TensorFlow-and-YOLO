@@ -12,19 +12,19 @@ Real time detection can be use via command prompt or GUI.
 		<th><strong>A USA Real-Time Road Detection</strong></th>
 	</tr>
 	<tr align="center">
-		<td><img src="https://github.com/harshkushwaha7x/Real-Time-Object-Detection-System-with-TensorFlow-and-YOLO/blob/master/doc/detector1.gif"></td>		
+		<td><img src="https://raw.githubusercontent.com/harshkushwaha7x/Real-Time-Object-Detection-System-with-TensorFlow-and-YOLO/master/doc/detector1.gif"></td>		
 	</tr>
 	<tr align="center">
 		<th><strong>A UK Real-Time Road Detection</strong></th>
 	</tr>
 	<tr align="center">
-		<td><img src="https://github.com/harshkushwaha7x/Real-Time-Object-Detection-System-with-TensorFlow-and-YOLO/blob/master/doc/detector2.gif"></td>
+		<td><img src="https://raw.githubusercontent.com/harshkushwaha7x/Real-Time-Object-Detection-System-with-TensorFlow-and-YOLO/master/doc/detector2.gif"></td>
 	</tr>
 	<tr align="center">
 		<th><strong>A Real-Time Webcam Detection</strong></th>
 	</tr>
 	<tr align="center">
-		<td style="width: 100%;"><img src="https://github.com/harshkushwaha7x/Real-Time-Object-Detection-System-with-TensorFlow-and-YOLO/blob/master/doc/webcam_detector.jpg"></td>
+		<td style="width: 100%;"><img src="https://raw.githubusercontent.com/harshkushwaha7x/Real-Time-Object-Detection-System-with-TensorFlow-and-YOLO/master/doc/webcam_detector.jpg"></td>
 	</tr>
 </tbody>
 </table>
@@ -60,7 +60,7 @@ OpenCV dnn module supports running inference on pre-trained deep learning models
 ## How to use?
 <ol>
   <li>Clone the repository</li>
-  <p><code>git clone https://github.com/harshkushwaha7x/-Real-Time-Object-Detection-System-with-TensorFlow-and-YOLO.git</code></p>
+  <p><code>git clone https://github.com/harshkushwaha7x/Real-Time-Object-Detection-System-with-TensorFlow-and-YOLO.git</code></p>
 </ol>
 <ol start="2">
   <li>Move to the directory</li>
